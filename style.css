@@ -5,6 +5,13 @@ h1 {
   }
 
 body {
-  background-color: darkslategray;
-
+    background-color: darkslategray;
 }
+
+p {
+    text-align: center;
+    font-family: Arial, sans-serif; 
+    font-size: 140px;
+}
+
+
